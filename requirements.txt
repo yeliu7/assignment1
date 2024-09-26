@@ -1,0 +1,4 @@
+Pands
+Streamlit
+matplotlib.pyplot
+numpy
