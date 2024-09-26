@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.title('kickstarter campaign overview')
 
 # Load some data
-df = pd.read_csv("/Users/clareliu/desktop/py4e/kickstarter_2016.csv")
+df = pd.read_csv("https://github.com/yeliu7/assignment1/blob/main/kickstarter_2016.csv")
 
 # Show the dataset
 st.write(df)
